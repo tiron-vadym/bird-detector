@@ -1,0 +1,10 @@
+# Dataset created by prepare_dataset.py (one class: bird).
+# Run `python prepare_dataset.py` before training.
+# Path is relative to the project working directory, from which train.py is run.
+path: data/birds
+train: images/train
+val: images/val
+
+names:
+  0: bird
+

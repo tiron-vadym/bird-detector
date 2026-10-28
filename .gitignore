@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+runs/
+data/birds/
+data/source/
+yolo26n.pt
+
